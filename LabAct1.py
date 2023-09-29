@@ -100,5 +100,3 @@ print("and her subbordinates. Reimu soon found out that Remilia has the power to
 print("The spellcard rules is a complex rule/law for beings living in " +location7+ " weak and strong, to not abuse or use their powerful abilities for their own personal")
 print("intentions that causes nuisance to others. Reimu is still troubled on why Remilia did not use her ability during battle, but after she digresses, everyone continued")
 print("their routine and peace was restored once again within "+location7+". This is where the story ends.")
-print()
-print("Dear Instructor, I do apologize for making the story very long and may have wasted your time, but I just really wanted to share to you this game's wonderful story that I love very much to you. Good day.")
