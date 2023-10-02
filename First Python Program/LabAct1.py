@@ -50,6 +50,7 @@ wep5 = "<spears>"
 Spellcd1 = "<Sun Sign ~ 'Royal Flare'>"
 abil1 = "<Time Manipulation>"
 
+# Prints the original value and the converted value
 print(f"Weight in Pounds(lb):  {pounds}")
 print(f"Weight in Kilograms(kg): {Kilo}")
 print("======================================")
@@ -59,6 +60,8 @@ print("======================================")
 print(f"Temperature in Farenheit: {Farenhiet}")
 print(f"Temperature in Celsius:  {Celsius}")
 print("======================================")
+
+#Prints the ages of the students and their average age
 print(f"Age of Student 1: {stu1}")
 print(f"Age of Student 2: {stu2}")
 print(f"Age of Student 3: {stu3}")
@@ -72,6 +75,7 @@ print(f"Age of Student 10: {stu10}")
 print(f"The average age of the students is: {AveAge}")
 print("======================================")
 
+# Prints the story 
 print("The Scarlet Mist Incident (Touhou 6 Story)\n")
 
 story = "The story starts at the "  + Location1 +  " where we will find our two protagonists " + Prota1 +  " and "  + Prota2 + ". Reimu, the red-white hakurei shrine maiden is\
